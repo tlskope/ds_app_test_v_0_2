@@ -1,0 +1,12 @@
+T LERIOS
+18 Aug 2023
+
+Objective:
+Build an app with interactive data and deploy it.
+
+App Build:
+PASS 
+
+App Deployment:
+PASS 
+
